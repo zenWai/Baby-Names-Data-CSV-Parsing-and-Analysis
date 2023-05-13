@@ -1,0 +1,6 @@
+### IntelliJ IDEA ###
+out/
+target/
+.idea/
+my-app.iml
+pom.xml
